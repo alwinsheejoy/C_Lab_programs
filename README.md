@@ -1,2 +1,7 @@
 # C_Lab_programs
-C lab programs
+
+to run the programs
+
+gcc filename.c
+
+./a.out
